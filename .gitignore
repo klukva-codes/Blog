@@ -3,6 +3,7 @@
 # For example we ignore the hidden files from Pycharm and VS Code.
 .idea/
 .vscode
+.venv/
 
 ### Also any macOS specific files
 .DS_Store
@@ -18,6 +19,7 @@ Icon
 __pycache__/
 *.py[cod]
 *$py.class
+*.pyc
 
 # C extensions
 *.so
