@@ -108,7 +108,7 @@ Blog/
 ## 👤 Admin Access
 
 The first registered user becomes the admin.  
-Admin users see extra options: create new post, edit, delete.
+Admin users see extra options: create new post, edit, delete
 
 ---
 
